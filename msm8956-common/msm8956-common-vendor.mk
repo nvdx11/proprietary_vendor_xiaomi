@@ -366,7 +366,8 @@ PRODUCT_PACKAGES += \
     com.qualcomm.location \
     colorservice \
     ims \
-    imssettings
+    imssettings \
+    Lawnchair
 
 # Perf
 PRODUCT_PACKAGES += \
